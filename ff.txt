@@ -1,0 +1,15 @@
+https://fssp.gov.ru/torgi/ajax_search/
+torgi[bidnumber]:
+torgi[status]:
+torgi[torgpublishdate][from]:
+torgi[torgpublishdate][to]:
+torgi[propname]:
+torgi[region]: 5500000000000
+torgi[city]:
+torgi[startprice][from]:
+torgi[startprice][to]:
+torgi[torgexpiredate][from]: 10.07.2021
+torgi[torgexpiredate][to]:
+
+https://fssp.gov.ru/torgi/ajax_search/?torgi%5Bbidnumber%5D=&torgi%5Bstatus%5D=&torgi%5Btorgpublishdate%5D%5Bfrom%5D=&torgi%5Btorgpublishdate%5D%5Bto%5D=&torgi%5Bpropname%5D=&torgi%5Bregion%5D=5500000000000&torgi%5Bcity%5D=&torgi%5Bstartprice%5D%5Bfrom%5D=&torgi%5Bstartprice%5D%5Bto%5D=&torgi%5Btorgexpiredate%5D%5Bfrom%5D=11.07.2021&torgi%5Btorgexpiredate%5D%5Bto%5D=
+https://fssp.gov.ru/torgi/ajax_search/?torgi%5Bbidnumber%5D=&torgi%5Bstatus%5D=&torgi%5Btorgpublishdate%5D%5Bfrom%5D=&torgi%5Btorgpublishdate%5D%5Bto%5D=&torgi%5Bpropname%5D=&torgi%5Bregion%5D=5500000000000&torgi%5Bcity%5D=&torgi%5Bstartprice%5D%5Bfrom%5D=&torgi%5Bstartprice%5D%5Bto%5D=&torgi%5Btorgexpiredate%5D%5Bfrom%5D=&torgi%5Btorgexpiredate%5D%5Bto%5D=
