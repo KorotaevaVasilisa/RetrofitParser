@@ -1,11 +1,15 @@
 import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.http.GET;
+import retrofit2.http.HeaderMap;
 import retrofit2.http.Query;
+
+import java.util.HashMap;
 
 public interface HttpRequest {
     @GET("torgi/ajax_search/")
     Call<ResponseBody> getData(
+            @HeaderMap HashMap<String, String> headers,
             @Query("torgi[bidnumber]") String bidNumber,
             @Query("torgi[status]") String status,
             @Query("torgi[torgpublishdate][from]") String publishDateFrom,
